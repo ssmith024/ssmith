@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--head content-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume of Shelly Smith</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<!--Navigation menu-->
+<nav>
+    <ul>
+     <button><a href="index.html">Home</a></button>
+     <button><a href="about.html">About</a></button>   
+     <button><a href="photogallery.html">Photo Gallery</a></button>
+     <button><a href="resume.html">Resume</a></button> 
+     <button><a href="portfolio.html">Portfolio</a></button>
+     <button><a href="contact.html">Contact</a></button>               
+     </ul>
+ </nav>
+<body>
+    <header>
+        <h1>Contact Information</h1>
+        <img src="images/IMG_5956.jpg" alt="Get in touch" width="535" height="200" class="bordered-image" >
+    </header>
+    <main>
+    
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>Shelly Smith</td>
+            </tr>
+            <tr>
+                <td>Telephone</td>
+                <td>617-717-8073</td>
+            </tr>
+            <tr>
+                <td>School Email</td>
+                <td>sxsmith@bu.edu</td>
+            </tr>
+            <tr>
+                <td>Personal Email</td>
+                <td>shellyjnsmith@outlook.com</td>
+            </tr>
+        </table>
+
+        <figure>
+            
+            <figcaption> Image Source: By magele-picture </figcaption>
+        </figure>
+    </main>
+      
+    </footer>
+    &copy; 2023 All rights reserved
+    </footer>   
+</body>
+</html>
