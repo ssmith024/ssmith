@@ -36,3 +36,13 @@ Functionality: Includes consistent header content like website title, and naviga
 Description: The stylesheet file used to define the visual appearance and layout of the HTML pages.
 Functionality: Contains rules for formatting text, positioning elements, defining colors and overall style of the web pages.
 
+![image 1](images/IMG_1222.jpg)
+![image 2](images/IMG_1235.jpg)
+![image 3](images/IMG_1344.jpg)
+![image 4](images/IMG_1347.jpg)
+![image 5](images/IMG_2424.jpg)
+![image 6](images/IMG_5954.jpg)
+![image 7](images/IMG_5955.jpg)
+![image 8](images/IMG_8034.jpg)
+![image 9](images/IMG_8491.jpg)
+![image 10](images/IMG_9296.jpg)
