@@ -101,6 +101,7 @@ main {
 }
 
 main p {
+    font-size: 0.9em;
     margin-bottom: 20px;
 }
 
@@ -123,3 +124,36 @@ footer {
     font-weight: normal;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Adjust the height as needed */
+}
+
+.bordered-image {
+    /* Your existing border styling or any additional image styling */
+    border: 2px solid #1B3848;
+    /* Additional styles as needed */
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    margin-bottom: -45px;
+}
+
+.image-container p {
+    margin-bottom: 80px; /* Adjust this value to move the paragraph up or down */
+    color: #1B3848;
+}
+
+img.bordered-image {
+    border: 2px solid #1B3848;
+    border-color: #1B3848;
+    display: block;
+    margin: -20 auto 30px;
+}
